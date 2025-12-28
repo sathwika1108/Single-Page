@@ -1,2 +1,2 @@
 # Single-Page
-info
+Personal info
